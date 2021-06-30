@@ -1,2 +1,2 @@
 # Service-Center-Website
- The website implements ticketing system that sorts the clients next in line and provides an ETA on creation.
+ The web app simulates a Car Service company that implements ticketing system, sorting the clients next in line and providing an ETA on creation.
